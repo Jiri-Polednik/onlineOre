@@ -1,10 +1,15 @@
 {
-  "name": "hardhat-project",
+  "name": "online-ore",
+  "version": "1.0.0",
+  "description": "online-ore is a versatile Ethereum token designed to power a wide range of decentralized applications and financial transactions on the blockchain. Built on the secure and scalable Ethereum network with the latest OpenZeppelin contracts, this token ensures robust security and interoperability for developers and users alike. With 'online-ore', stakeholders can effortlessly integrate token functionality into their platforms, benefiting from Ethereum's advanced smart contract capabilities and a strong developer community. Ideal for innovators looking to leverage blockchain technology for diverse applications.",
+  "main": "hardhat.config.ts",
+  "keywords": [],
+  "author": "Jiri Polednik",
+  "license": "ISC",
+  "dependencies": {},
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^5.0.0",
-    "hardhat": "^2.22.3"
-  },
-  "dependencies": {
+    "hardhat": "^2.22.3",
     "@openzeppelin/contracts": "^5.0.2"
   }
 }
