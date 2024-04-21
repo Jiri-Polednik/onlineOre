@@ -6,10 +6,12 @@
   "keywords": [],
   "author": "Jiri Polednik",
   "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+  },
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@openzeppelin/contracts": "^5.0.2",
     "hardhat": "^2.22.3",
-    "@openzeppelin/contracts": "^5.0.2"
+    "chai": "^4.4.1"
   }
 }
